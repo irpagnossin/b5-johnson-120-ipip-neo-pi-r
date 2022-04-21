@@ -1,54 +1,54 @@
 module.exports = {
   plus: [
     {
-      text: 'Muito inadequado',
+      text: 'Discordo totalmente',
       score: 1,
       color: 1
     },
     {
-      text: 'Relativamente inadequado',
+      text: 'Discordo em parte',
       score: 2,
       color: 2
     },
     {
-      text: 'Nem adequado, nem inadequado',
+      text: 'Nem concordo nem discordo',
       score: 3,
       color: 3
     },
     {
-      text: 'Relativamente adequado',
+      text: 'Concordo em parte',
       score: 4,
       color: 4
     },
     {
-      text: 'Muito adequado',
+      text: 'Concordo totalmente',
       score: 5,
       color: 5
     }
   ],
   minus: [
     {
-      text: 'Muito inadequado',
+      text: 'Discordo totalmente',
       score: 5,
       color: 1
     },
     {
-      text: 'Relativamente inadequado',
+      text: 'Discordo em parte',
       score: 4,
       color: 2
     },
     {
-      text: 'Nem adequado, nem inadequado',
+      text: 'Nem concordo nem discordo',
       score: 3,
       color: 3
     },
     {
-      text: 'Relativamente adequado',
+      text: 'Concordo em parte',
       score: 2,
       color: 4
     },
     {
-      text: 'Muito adequado',
+      text: 'Concordo totalmente',
       score: 1,
       color: 5
     }
